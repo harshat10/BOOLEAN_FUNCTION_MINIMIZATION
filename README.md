@@ -54,7 +54,7 @@ Developed by: RegisterNumber:*/
 
 ![Screenshot 2024-11-04 112617](https://github.com/user-attachments/assets/f3006c85-12a1-4d8a-aeb0-e599b589222c)
 
-**Result:**
+# RESULT
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
