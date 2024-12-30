@@ -36,9 +36,7 @@ Software – Quartus prime
 
 ![Screenshot 2024-11-04 115130](https://github.com/user-attachments/assets/bb42d479-0b70-4a73-af59-c3e7cd1d88ad)
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
 
 # TRUTH TABLE
 
